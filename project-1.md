@@ -7,12 +7,16 @@
 
 - update a list of packages in package manager 
 
+Run command:
+
 `sudo apt update`
+
 ![sudo apt update](./images/01-sudo-apt-update.PNG)
 
-- run apache2 package installation
+- run apache2 package installation:
 
 `sudo apt install apache2`
+
 ![](./images/02%20sudo%20apt%20istall%20apache2.PNG)
 
 To verify that apache2 is running as a Service in our OS, use  command:
